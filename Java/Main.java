@@ -5,7 +5,9 @@ public class Main {
         //new lecture04.Reorder();
         //new lecture05.Q02();
         //new lecture05.Q03();
-        new lecture06.BFS();
-        new lecture06.Ice();
+        //new lecture06.BFS();
+        //new lecture06.Ice();
+        new lecture07.BFS();
+        new lecture07.DFS();
     }
 }
