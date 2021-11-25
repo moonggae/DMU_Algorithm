@@ -13,6 +13,11 @@ public class Main {
         //new lecture06.Ice();
         //new lecture07.BFS();
         //new lecture07.DFS();
+        
+        //new lecture10.IsEven().q1();
+        //new lecture10.IsEven().q2();
+        //new lecture10.ToggleCase();
+        //new lecture10.LastZero();
         new lecture12.LargestNumber();
     }
 }
