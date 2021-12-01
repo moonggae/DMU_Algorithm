@@ -18,6 +18,8 @@ public class Main {
         //new lecture10.IsEven().q2();
         //new lecture10.ToggleCase();
         //new lecture10.LastZero();
-        new lecture12.LargestNumber();
+        //new lecture12.LargestNumber();
+        new lecture13.SecretMap();
+        new lecture13.StringCompression();
     }
 }
